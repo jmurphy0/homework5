@@ -7,5 +7,5 @@ User will input text and click the save button to store the plan in localstorage
 ![alt text](assets/hmwk5.mov)
 
 
-git repo link:
-io link:
+git repo link: https://github.com/jmurphy0/homework5.git
+io link: https://jmurphy0.github.io/homework5/
